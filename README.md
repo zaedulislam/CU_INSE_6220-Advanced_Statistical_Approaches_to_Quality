@@ -1,1 +1,1 @@
-# CU_INSE_6220-Advanced_Statistical_Approaches_to_Quality
+# CU INSE 6220 - Advanced Statistical Approaches to Quality
